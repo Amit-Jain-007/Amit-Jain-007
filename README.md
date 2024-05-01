@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Jain
 - 👀 I’m interested in web development and designing
 - 🌱 I’m currently learning "AWS"
-- 📫 How to reach me on Instagram (https://www.instagram.com/amit.bro.007/)
+- 📫 Reach me on Instagram (https://www.instagram.com/amit.bro.007/)
 - ⚡ Fun fact: I am a 16-year-old boy
 
 <!---
